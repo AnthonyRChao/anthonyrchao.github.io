@@ -7,11 +7,16 @@ weight: 3
 
 # **About Me**
 
+"Early to bed, 
+early to rise, 
+work like hell, 
+and advertise."
+
+- Ted Turner
+
 Hi I'm Anthony. 
 <br>
-This personal site is under construction. 
-<br>
-Thanks for stopping by.
+I'm a Data Engineer at Facebook and Real Estate Investor based in the Bay Area. I started this site to document progress toward my goals, build a platform for my own content, and to add value to readers like yourself. Thanks for stopping by and feel free to drop me a message.
 
 <!--
 <div class="row">
